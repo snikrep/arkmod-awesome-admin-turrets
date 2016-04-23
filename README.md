@@ -5,6 +5,10 @@ ARK: Survival Evolved - MOD for Awesome Admin Turret structures.
 
 One turret will 1-shot a wild giga.  Anything that comes in range of this turret will be dead, with no ability to react to it.
 
+To subscribe to the mod:
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=670869235
+
 To spawn one for yourself (single player mode)
 
 `cheat giveitem "Blueprint'/Game/Mods/AwesomeAdminTurretMod/PrimalItemStructure_AwesomeAdminTurret.PrimalItemStructure_AwesomeAdminTurret'" 1 1 0`
